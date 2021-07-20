@@ -1,0 +1,2 @@
+(self.webpackChunkyugioh=self.webpackChunkyugioh||[]).push([[358],{49358:function(e,n,u){"use strict";u.r(n);var t=u(67294);n.default=function(){return t.createElement("div",null,t.createElement("h4",null,"Hecho por Roberto"),t.createElement("h5",null,"Tarea 1: Comunicación de Componentes y uso de Props"))}}}]);
+//# sourceMappingURL=358.bundle.js.map
