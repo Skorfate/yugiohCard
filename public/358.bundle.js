@@ -1,2 +1,2 @@
-(self.webpackChunkyugioh=self.webpackChunkyugioh||[]).push([[358],{49358:function(e,n,u){"use strict";u.r(n);var t=u(67294);n.default=function(){return t.createElement("div",null,t.createElement("h4",null,"Hecho por Roberto"),t.createElement("h5",null,"Tarea 1: Comunicación de Componentes y uso de Props"))}}}]);
+(self.webpackChunkyugioh=self.webpackChunkyugioh||[]).push([[358],{49358:function(e,n,l){"use strict";l.r(n);var r=l(67294);n.default=function(){return r.createElement("div",null,r.createElement("h4",null,"Hecho por Roberto Correa 17670269-9"),r.createElement("h5",null,"Trabajo Final"))}}}]);
 //# sourceMappingURL=358.bundle.js.map
