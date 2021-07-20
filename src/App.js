@@ -3,9 +3,10 @@ import './App.css';
 import { HashRouter, Route, Switch, BrowserRouter } from 'react-router-dom';
 import React, { lazy, Suspense } from "react";
 import { CircularProgress } from '@material-ui/core';
+import Ruta from './components/Ruta/Ruta.component';
 import Header from './components/header/header.component';
 import Footer from './components/footer/footer.component';
-import Ruta from './components/Ruta/Ruta.component';
+
 
 const Home = lazy(() => import('./page/Home/Home.page'));
 
