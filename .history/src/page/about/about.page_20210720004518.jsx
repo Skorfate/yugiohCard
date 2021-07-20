@@ -4,8 +4,8 @@ const About = () => {
     
     return (
         <div>
-            <h4>Hecho por Roberto Correa 17670269-9</h4>
-            <h5>Trabajo Final</h5>
+            <h4>Hecho por Roberto</h4>
+            <h5>Tarea 1: Comunicación de Componentes y uso de Props</h5>
         </div>
     )
     
